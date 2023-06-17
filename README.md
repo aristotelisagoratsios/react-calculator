@@ -1,4 +1,5 @@
-# A mini project Calculator, created from the framework ReactJS of Javascript Program Language!
+# react-calculator
+A mini project Calculator, created from the framework ReactJS of Javascript Program Language!
 
 # Getting Started with Create React App
 
